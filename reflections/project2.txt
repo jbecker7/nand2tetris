@@ -1,0 +1,15 @@
+General:
+
+Project 2 of the Nand2Tetris course focuses on Boolean arithmetic, which is a system of arithmetic that uses only two values: 0 and 1. This system is used in computer circuits to represent and manipulate data, and it is an essential concept for anyone interested in computer science and engineering.
+
+One of the key strengths of Project 2 is that it provides a thorough and well-explained introduction to Boolean arithmetic. The materials are well-organized and easy to follow, and the online course platform includes video lectures, quizzes, and exercises to help reinforce the concepts being taught. The project also includes a series of hands-on exercises that allow students to apply what they have learned by building circuits using the Nand2Tetris hardware simulator.
+
+One potential challenge of Project 2 is that it does assume some prior knowledge of logic gates and Boolean algebra. These were covered in project 1, so as long as one is completing the projects in order, the material should be at a reasonable difficulty level. Otherwise, students who are new to these topics may need to spend extra time reviewing the materials or seeking additional resources to fully understand the concepts being covered.
+
+Overall, I would recommend Project 2 of the Nand2Tetris course to anyone interested in learning about Boolean arithmetic and its applications in computer science and engineering. The materials are well-written and the hands-on exercises provide a great opportunity for students to apply what they have learned.
+
+Accessibility:
+
+In terms of accessibility, I would say that Project 2 of the Nand2Tetris course is fairly accessible for students who are motivated to learn about Boolean arithmetic and its applications in computer science and engineering. The materials are well-organized and easy to follow, and the online course platform includes video lectures, quizzes, and exercises to help reinforce the concepts being taught.
+
+However, it should be noted that Project 2 does assume a certain level of prior knowledge, including familiarity with logic gates and Boolean algebra. As a result, students who are new to these concepts or who have a weaker background in mathematics may find the material more challenging. In these cases, it may be helpful for students to review the materials more thoroughly or seek additional resources to fully understand the concepts being covered.
