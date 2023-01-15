@@ -1,0 +1,14 @@
+General:
+
+Project 4 of the course focuses on machine language, which is the lowest-level programming language that can be executed directly by a computer's hardware. The goal of Project 4 is to build a machine language interpreter that can run programs written in this language, as well as to write assembly programs that can be executed by the interpreter. The project involves building a virtual machine (the "Tetris Machine") that can execute machine language instructions, as well as an assembly language programming tool for writing and testing assembly programs. 
+
+All in all, I found it to be aluable learning experience for anyone interested in understanding the inner workings of a computer since it is focused on machine language, which is the lowest level of programming that a computer can understand. Through building a simple assembler, students learn how assembly language instructions are translated into machine code and gain a deeper understanding of how the CPU processes instructions.
+
+
+Accessibility:
+
+Project 4 of the Nand2Tetris course is generally accessible to students of all backgrounds and experience levels. The provided materials are clear and easy to follow, and the project is structured in a way that allows students to progress at their own pace. The hands-on approach of building an assembler program also helps to make the concepts more concrete and understandable.
+
+However, there are some areas where the project could be improved in terms of accessibility. One issue is that the course materials and programming assignments are primarily in English. This was not something I considered with the previous projects but here, where it took me a few read throughs to get the material, it could make it more difficult for non-native English speakers to fully understand and complete the project. Additionally, the project requires a certain level of mathematical aptitude and understanding of logic, which could be challenging for some students.
+
+Overall, while Project 4 of the Nand2Tetris course is generally accessible, there are some areas where it could be improved to better support students with diverse backgrounds and needs. Providing translations of the course materials and programming assignments in different languages could help to address the first issue. And, providing more resources and support for students who may struggle with the mathematical and logical concepts could help to address the second issue.
